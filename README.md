@@ -9,6 +9,9 @@
 
 - [Comptia Security +](https://www.credly.com/badges/5ae82c90-8be4-4f7f-80bb-69a536ba61d5/public_url)
 
+ ![comptia-security-ce-certification (1)](https://github.com/SGTBolduc/SGTBolduc/assets/174336018/3108e599-6eb5-470f-8007-1d3a81149665)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
