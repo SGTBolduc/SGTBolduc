@@ -1,10 +1,10 @@
-<h1>Hi, I'm Zack!
+<h1>Hi, I'm Zackery!
 
 
 <h2>👨‍💻Cyber Security Projects:</h2>
 
 - [Active Directory Home LAB](https://github.com/SGTBolduc/ActiveDirectoryLab/tree/main)
-    
+- [Azure sentinel (SIEM) & Honey Pot Tutorial (in progress)](https://github.com/SGTBolduc)
 <H2>📄Certifications</H2>
 
 - [Comptia Security +](https://www.credly.com/badges/5ae82c90-8be4-4f7f-80bb-69a536ba61d5/public_url)
