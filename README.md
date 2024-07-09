@@ -4,7 +4,7 @@
 <h2>👨‍💻Cyber Security Projects:</h2>
 
 - [Active Directory Home LAB](https://github.com/SGTBolduc/ActiveDirectoryLab/tree/main)
-- [Azure sentinel (SIEM) & Honey Pot Tutorial](https://github.com/Azure_Sentinel_SIEM_honeypot)
+- [Azure sentinel (SIEM) & Honey Pot Tutorial](https://github.com/SGTBolduc/Azure_Sentinel_SIEM_honeypot)
 <H2>📄Certifications</H2>
 
 - [Comptia Security +](https://www.credly.com/badges/5ae82c90-8be4-4f7f-80bb-69a536ba61d5/public_url)
