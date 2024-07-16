@@ -5,12 +5,16 @@
 
 -  [Active Directory Home LAB](https://github.com/SGTBolduc/ActiveDirectoryLab/tree/main)
 -  [Azure sentinel (SIEM) & Honey Pot Tutorial](https://github.com/SGTBolduc/Azure_Sentinel_SIEM_honeypot)
-
+-  [Vulnerability Management](https://github.com/SGTBolduc)
 
 
 
 - <b>PowerShell</b>
 - [FIM (File Integrity Monitor)](https://github.com/SGTBolduc/FIM)
+- <b>JavaScript</b>
+- [Coding REST API with Node.js](https://github.com/SGTBolduc)
+
+
 
 
 <H2>📄Certifications</H2>
