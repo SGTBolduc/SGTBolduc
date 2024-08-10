@@ -12,7 +12,7 @@
 - <b>PowerShell</b>
 - [FIM (File Integrity Monitor)](https://github.com/SGTBolduc/FIM)
 - <b>JavaScript</b>
-- [Coding REST API with Node.js](https://github.com/SGTBolduc)
+- [Coding REST API with Node.js](https://github.com/SGTBolduc/RESTAPI)
 
 
 
