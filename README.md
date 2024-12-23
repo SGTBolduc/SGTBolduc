@@ -1,7 +1,7 @@
 <h1>Hi, I'm Zackery! Thanks for stopping by
 
 
-<h2>👨‍💻Cyber Security Projects:</h2>
+<h2>👨‍💻Computer Science Projects:</h2>
 
 -  [Active Directory Home LAB](https://github.com/SGTBolduc/ActiveDirectoryLab/tree/main)
 -  [Azure Sentinel (SIEM) & Honey Pot](https://github.com/SGTBolduc/Azure_Sentinel_SIEM_honeypot)
